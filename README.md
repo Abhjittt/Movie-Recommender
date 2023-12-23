@@ -3,7 +3,8 @@
 <body>
 <text>
   Implementation Of Movie Recommender System Using Multiple Datasets,<br>
-  Including Data Preprocessing, ML Models.
+  including Data Preprocessing, ML Models in the movie_recommender.ipynb<br>
+  Implemented a small Streamlit interface inorder to Recommend movies using the models created in director.py.
 </text>
   <br>
   
